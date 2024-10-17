@@ -5,6 +5,26 @@
     {
       "AbsoluteMoniker": "D:0:0:{7529824B-B5DA-4F10-B1D7-A1EDCE3609FA}|Task\\Task.csproj|c:\\users\\asusr\\onedrive\\desktop\\def\\programming langs\\c#\\pb502\\generics-constraints-collections-datastructure-list-arraylist\\task.homework\\task\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7529824B-B5DA-4F10-B1D7-A1EDCE3609FA}|Task\\Task.csproj|solutionrelative:task\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7529824B-B5DA-4F10-B1D7-A1EDCE3609FA}|Task\\Task.csproj|c:\\users\\asusr\\onedrive\\desktop\\def\\programming langs\\c#\\pb502\\generics-constraints-collections-datastructure-list-arraylist\\task.homework\\task\\models\\library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7529824B-B5DA-4F10-B1D7-A1EDCE3609FA}|Task\\Task.csproj|solutionrelative:task\\models\\library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7529824B-B5DA-4F10-B1D7-A1EDCE3609FA}|Task\\Task.csproj|c:\\users\\asusr\\onedrive\\desktop\\def\\programming langs\\c#\\pb502\\generics-constraints-collections-datastructure-list-arraylist\\task.homework\\task\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7529824B-B5DA-4F10-B1D7-A1EDCE3609FA}|Task\\Task.csproj|solutionrelative:task\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7529824B-B5DA-4F10-B1D7-A1EDCE3609FA}|Task\\Task.csproj|c:\\users\\asusr\\onedrive\\desktop\\def\\programming langs\\c#\\pb502\\generics-constraints-collections-datastructure-list-arraylist\\task.homework\\task\\exceptions\\capacitylimitexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7529824B-B5DA-4F10-B1D7-A1EDCE3609FA}|Task\\Task.csproj|solutionrelative:task\\exceptions\\capacitylimitexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7529824B-B5DA-4F10-B1D7-A1EDCE3609FA}|Task\\Task.csproj|c:\\users\\asusr\\onedrive\\desktop\\def\\programming langs\\c#\\pb502\\generics-constraints-collections-datastructure-list-arraylist\\task.homework\\task\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7529824B-B5DA-4F10-B1D7-A1EDCE3609FA}|Task\\Task.csproj|solutionrelative:task\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7529824B-B5DA-4F10-B1D7-A1EDCE3609FA}|Task\\Task.csproj|c:\\users\\asusr\\onedrive\\desktop\\def\\programming langs\\c#\\pb502\\generics-constraints-collections-datastructure-list-arraylist\\task.homework\\task\\exceptions\\productcountiszeroexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7529824B-B5DA-4F10-B1D7-A1EDCE3609FA}|Task\\Task.csproj|solutionrelative:task\\exceptions\\productcountiszeroexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -22,15 +42,80 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CapacityLimitException.cs",
+              "DocumentMoniker": "C:\\Users\\asusr\\OneDrive\\Desktop\\def\\programming langs\\c#\\PB502\\Generics-Constraints-Collections-DataStructure-List-ArrayList\\Task.Homework\\Task\\Exceptions\\CapacityLimitException.cs",
+              "RelativeDocumentMoniker": "Task\\Exceptions\\CapacityLimitException.cs",
+              "ToolTip": "C:\\Users\\asusr\\OneDrive\\Desktop\\def\\programming langs\\c#\\PB502\\Generics-Constraints-Collections-DataStructure-List-ArrayList\\Task.Homework\\Task\\Exceptions\\CapacityLimitException.cs",
+              "RelativeToolTip": "Task\\Exceptions\\CapacityLimitException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T11:39:37.932Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Library.cs",
+              "DocumentMoniker": "C:\\Users\\asusr\\OneDrive\\Desktop\\def\\programming langs\\c#\\PB502\\Generics-Constraints-Collections-DataStructure-List-ArrayList\\Task.Homework\\Task\\Models\\Library.cs",
+              "RelativeDocumentMoniker": "Task\\Models\\Library.cs",
+              "ToolTip": "C:\\Users\\asusr\\OneDrive\\Desktop\\def\\programming langs\\c#\\PB502\\Generics-Constraints-Collections-DataStructure-List-ArrayList\\Task.Homework\\Task\\Models\\Library.cs",
+              "RelativeToolTip": "Task\\Models\\Library.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAswE8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T11:17:01.119Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductCountIsZeroException.cs",
+              "DocumentMoniker": "C:\\Users\\asusr\\OneDrive\\Desktop\\def\\programming langs\\c#\\PB502\\Generics-Constraints-Collections-DataStructure-List-ArrayList\\Task.Homework\\Task\\Exceptions\\ProductCountIsZeroException.cs",
+              "RelativeDocumentMoniker": "Task\\Exceptions\\ProductCountIsZeroException.cs",
+              "ToolTip": "C:\\Users\\asusr\\OneDrive\\Desktop\\def\\programming langs\\c#\\PB502\\Generics-Constraints-Collections-DataStructure-List-ArrayList\\Task.Homework\\Task\\Exceptions\\ProductCountIsZeroException.cs",
+              "RelativeToolTip": "Task\\Exceptions\\ProductCountIsZeroException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T11:10:11.619Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\asusr\\OneDrive\\Desktop\\def\\programming langs\\c#\\PB502\\Generics-Constraints-Collections-DataStructure-List-ArrayList\\Task.Homework\\Task\\Program.cs",
               "RelativeDocumentMoniker": "Task\\Program.cs",
-              "ToolTip": "C:\\Users\\asusr\\OneDrive\\Desktop\\def\\programming langs\\c#\\PB502\\Generics-Constraints-Collections-DataStructure-List-ArrayList\\Task.Homework\\Task\\Program.cs",
-              "RelativeToolTip": "Task\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\asusr\\OneDrive\\Desktop\\def\\programming langs\\c#\\PB502\\Generics-Constraints-Collections-DataStructure-List-ArrayList\\Task.Homework\\Task\\Program.cs*",
+              "RelativeToolTip": "Task\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-17T07:24:44.822Z",
+              "WhenOpened": "2024-10-17T09:12:36.073Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\asusr\\OneDrive\\Desktop\\def\\programming langs\\c#\\PB502\\Generics-Constraints-Collections-DataStructure-List-ArrayList\\Task.Homework\\Task\\Models\\Book.cs",
+              "RelativeDocumentMoniker": "Task\\Models\\Book.cs",
+              "ToolTip": "C:\\Users\\asusr\\OneDrive\\Desktop\\def\\programming langs\\c#\\PB502\\Generics-Constraints-Collections-DataStructure-List-ArrayList\\Task.Homework\\Task\\Models\\Book.cs",
+              "RelativeToolTip": "Task\\Models\\Book.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T09:06:43.037Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\asusr\\OneDrive\\Desktop\\def\\programming langs\\c#\\PB502\\Generics-Constraints-Collections-DataStructure-List-ArrayList\\Task.Homework\\Task\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Task\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\asusr\\OneDrive\\Desktop\\def\\programming langs\\c#\\PB502\\Generics-Constraints-Collections-DataStructure-List-ArrayList\\Task.Homework\\Task\\Models\\Product.cs",
+              "RelativeToolTip": "Task\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T07:40:16.127Z",
               "EditorCaption": ""
             }
           ]

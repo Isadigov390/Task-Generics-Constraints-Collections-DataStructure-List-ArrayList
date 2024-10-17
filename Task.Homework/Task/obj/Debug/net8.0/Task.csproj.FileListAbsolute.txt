@@ -1,0 +1,15 @@
+C:\Users\asusr\OneDrive\Desktop\def\programming langs\c#\PB502\Generics-Constraints-Collections-DataStructure-List-ArrayList\Task.Homework\Task\obj\Debug\net8.0\Task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asusr\OneDrive\Desktop\def\programming langs\c#\PB502\Generics-Constraints-Collections-DataStructure-List-ArrayList\Task.Homework\Task\obj\Debug\net8.0\Task.AssemblyInfoInputs.cache
+C:\Users\asusr\OneDrive\Desktop\def\programming langs\c#\PB502\Generics-Constraints-Collections-DataStructure-List-ArrayList\Task.Homework\Task\obj\Debug\net8.0\Task.AssemblyInfo.cs
+C:\Users\asusr\OneDrive\Desktop\def\programming langs\c#\PB502\Generics-Constraints-Collections-DataStructure-List-ArrayList\Task.Homework\Task\obj\Debug\net8.0\Task.csproj.CoreCompileInputs.cache
+C:\Users\asusr\OneDrive\Desktop\def\programming langs\c#\PB502\Generics-Constraints-Collections-DataStructure-List-ArrayList\Task.Homework\Task\obj\Debug\net8.0\Task.sourcelink.json
+C:\Users\asusr\OneDrive\Desktop\def\programming langs\c#\PB502\Generics-Constraints-Collections-DataStructure-List-ArrayList\Task.Homework\Task\bin\Debug\net8.0\Task.exe
+C:\Users\asusr\OneDrive\Desktop\def\programming langs\c#\PB502\Generics-Constraints-Collections-DataStructure-List-ArrayList\Task.Homework\Task\bin\Debug\net8.0\Task.deps.json
+C:\Users\asusr\OneDrive\Desktop\def\programming langs\c#\PB502\Generics-Constraints-Collections-DataStructure-List-ArrayList\Task.Homework\Task\bin\Debug\net8.0\Task.runtimeconfig.json
+C:\Users\asusr\OneDrive\Desktop\def\programming langs\c#\PB502\Generics-Constraints-Collections-DataStructure-List-ArrayList\Task.Homework\Task\bin\Debug\net8.0\Task.dll
+C:\Users\asusr\OneDrive\Desktop\def\programming langs\c#\PB502\Generics-Constraints-Collections-DataStructure-List-ArrayList\Task.Homework\Task\bin\Debug\net8.0\Task.pdb
+C:\Users\asusr\OneDrive\Desktop\def\programming langs\c#\PB502\Generics-Constraints-Collections-DataStructure-List-ArrayList\Task.Homework\Task\obj\Debug\net8.0\Task.dll
+C:\Users\asusr\OneDrive\Desktop\def\programming langs\c#\PB502\Generics-Constraints-Collections-DataStructure-List-ArrayList\Task.Homework\Task\obj\Debug\net8.0\refint\Task.dll
+C:\Users\asusr\OneDrive\Desktop\def\programming langs\c#\PB502\Generics-Constraints-Collections-DataStructure-List-ArrayList\Task.Homework\Task\obj\Debug\net8.0\Task.pdb
+C:\Users\asusr\OneDrive\Desktop\def\programming langs\c#\PB502\Generics-Constraints-Collections-DataStructure-List-ArrayList\Task.Homework\Task\obj\Debug\net8.0\Task.genruntimeconfig.cache
+C:\Users\asusr\OneDrive\Desktop\def\programming langs\c#\PB502\Generics-Constraints-Collections-DataStructure-List-ArrayList\Task.Homework\Task\obj\Debug\net8.0\ref\Task.dll
